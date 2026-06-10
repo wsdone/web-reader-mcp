@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "web-reader-mcp",
+  "description": "Local web page reader MCP server for Claude Code",
+  "owner": { "name": "wsdone" },
+  "plugins": [
+    {
+      "name": "web-reader-mcp",
+      "description": "Fetch URLs and convert HTML to readable text - local replacement for cloud web reader services",
+      "version": "1.0.0",
+      "author": { "name": "wsdone" },
+      "source": "./",
+      "category": "web",
+      "tags": ["web", "reader", "fetch", "mcp"]
+    }
+  ],
+  "version": "1.0.0"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "web-reader-mcp",
+  "version": "1.0.0",
+  "description": "Fetch URLs and convert to readable text",
+  "author": { "name": "wsdone" },
+  "repository": "https://github.com/wsdone/web-reader-mcp",
+  "license": "MIT",
+  "keywords": ["web", "reader", "mcp"],
+  "mcpServers": "./.mcp.json"
+}
